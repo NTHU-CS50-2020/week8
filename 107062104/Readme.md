@@ -1,1 +1,1 @@
-Drag Pong into LOVE.exe to run
+Drag pong into LOVE.exe to run
