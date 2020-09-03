@@ -1,0 +1,1 @@
+Drag Pong into LOVE.exe to run
