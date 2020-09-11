@@ -1,1 +1,1 @@
-Drag pong into LOVE.exe to run
+Drag each folder into LOVE.exe to run
